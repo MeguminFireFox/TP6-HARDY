@@ -1,0 +1,9 @@
+J'ai rajouté d'autres script pour changer de scène puisque pour faire un peu plus propre j'ai rajouté un menu
+
+J'ai ensuite rajouté des class un peu différentes d'autres class pour pouvoir faire d'autres mode de jeu :
+-Un mode duo ou il y a eu un ajout d'un personnage et d'un autre script pour un personnage supplémentaire avec d'autre touche
+-Un mode Hardcore avec la suppresion de la mise a zero pour le générateur et donc des tuyaux qui apparaissent a toutes les frames, avec un personnages plus petit et un addforce plus faible pour pouvoir passer entre
+
+J'ai rajouté a Bird la possibilité d'ouvrir un panel quand il meurt pour montrer le score obtenue
+
+Il y a aussi le rajout d'un random dans le générateur pour faire en sorte que les tuyaux apparaissent de manière plus inatendueIl ya aussi le rajout d'un script pour fermer le jeu pour éviter de devoir forcément faire alt f4
